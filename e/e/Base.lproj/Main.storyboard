@@ -31,6 +31,9 @@
                             <constraint firstAttribute="centerX" secondItem="lnz-jK-SDj" secondAttribute="centerX" id="nga-Al-Hkb"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="showHelloWordMessageTextField" destination="lnz-jK-SDj" id="e0M-St-1lf"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
